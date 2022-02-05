@@ -6,13 +6,125 @@ uid: c11018a2-9c18-78df-3f06-e7885845bbfb
 
 [Acknowledgments]({{< baseurl >}}/pages/lecture-notes/acknowledgments).
 
-| LEC # | TOPICS | SLIDES |
-| --- | --- | --- |
-| 1 | What is evaluation?  {{< br >}}Rachel Glennerster, J-PAL | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.4MB]({{< baseurl >}}/resources/mitres_14_002s11_lec1)) |
-| 2 | Outcomes, indicators, and measuring impact  {{< br >}}Rema Hanna, Harvard University | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitres_14_002s11_lec2)) |
-| 3 | Impact evaluation—why randomize?  {{< br >}}Dan Levy, Harvard University | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.0MB]({{< baseurl >}}/resources/mitres_14_002s11_lec3)) |
-| 4 | How to randomize  {{< br >}}Rachel Glennerster, J-PAL | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.1MB]({{< baseurl >}}/resources/mitres_14_002s11_lec4)) |
-| 5 | Sampling and sample size  {{< br >}}Simone Schaner, Dartmouth college | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.3MB]({{< baseurl >}}/resources/mitres_14_002s11_lec5)) |
-| 6 | Analysis and inference  {{< br >}}Shawn Cole, Harvard University | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitres_14_002s11_lec6)) |
-| 7 | Randomized evaluation: start to finish  {{< br >}}Nava Ashraf, Harvard University | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitres_14_002s11_lec7)) |
-| 8 | Cost effectiveness and scaling up  {{< br >}}Iqbal Dhaliwal, J-PAL | ([PDF]({{< baseurl >}}/resources/mitres_14_002s11_lec8))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+SLIDES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+What is evaluation?  
+Rachel Glennerster, J-PAL
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.4MB]({{< baseurl >}}/resources/mitres_14_002s11_lec1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Outcomes, indicators, and measuring impact  
+Rema Hanna, Harvard University
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitres_14_002s11_lec2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Impact evaluation—why randomize?  
+Dan Levy, Harvard University
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.0MB]({{< baseurl >}}/resources/mitres_14_002s11_lec3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+How to randomize  
+Rachel Glennerster, J-PAL
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.1MB]({{< baseurl >}}/resources/mitres_14_002s11_lec4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Sampling and sample size  
+Simone Schaner, Dartmouth college
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.3MB]({{< baseurl >}}/resources/mitres_14_002s11_lec5))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Analysis and inference  
+Shawn Cole, Harvard University
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitres_14_002s11_lec6))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Randomized evaluation: start to finish  
+Nava Ashraf, Harvard University
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitres_14_002s11_lec7))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Cost effectiveness and scaling up  
+Iqbal Dhaliwal, J-PAL
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mitres_14_002s11_lec8))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
