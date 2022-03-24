@@ -31,7 +31,7 @@ What is evaluation?
 Rachel Glennerster, J-PAL
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.4MB]({{< baseurl >}}/resources/mitres_14_002s11_lec1))
+([PDF - 5.4MB]({{< baseurl >}}/resources/mitres_14_002s11_lec1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -44,7 +44,7 @@ Outcomes, indicators, and measuring impact
 Rema Hanna, Harvard University
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitres_14_002s11_lec2))
+([PDF]({{< baseurl >}}/resources/mitres_14_002s11_lec2))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +57,7 @@ Impact evaluation—why randomize?
 Dan Levy, Harvard University
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.0MB]({{< baseurl >}}/resources/mitres_14_002s11_lec3))
+([PDF - 1.0MB]({{< baseurl >}}/resources/mitres_14_002s11_lec3))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +70,7 @@ How to randomize
 Rachel Glennerster, J-PAL
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.1MB]({{< baseurl >}}/resources/mitres_14_002s11_lec4))
+([PDF - 2.1MB]({{< baseurl >}}/resources/mitres_14_002s11_lec4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -83,7 +83,7 @@ Sampling and sample size
 Simone Schaner, Dartmouth college
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.3MB]({{< baseurl >}}/resources/mitres_14_002s11_lec5))
+([PDF - 2.3MB]({{< baseurl >}}/resources/mitres_14_002s11_lec5))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +96,7 @@ Analysis and inference
 Shawn Cole, Harvard University
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitres_14_002s11_lec6))
+([PDF]({{< baseurl >}}/resources/mitres_14_002s11_lec6))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -109,7 +109,7 @@ Randomized evaluation: start to finish
 Nava Ashraf, Harvard University
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitres_14_002s11_lec7))
+([PDF]({{< baseurl >}}/resources/mitres_14_002s11_lec7))
 {{< tdclose >}}
 
 {{< trclose >}}
