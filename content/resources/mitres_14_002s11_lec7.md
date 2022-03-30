@@ -5,6 +5,7 @@ description: 'This resource contains information related to randomized evaluatio
   product.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/res-14-002-abdul-latif-jameel-poverty-action-lab-executive-training-evaluating-social-programs-2011-spring-2011/dc66a41f7ed710cfcece90f0e003eae0_MITRES_14_002S11_lec7.pdf
 file_type: application/pdf
+parent_uid: c11018a2-9c18-78df-3f06-e7885845bbfb
 resourcetype: Document
 title: MITRES_14_002S11_lec7.pdf
 uid: dc66a41f-7ed7-10cf-cece-90f0e003eae0
